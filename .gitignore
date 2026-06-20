@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+runs/poultry_model/
+runs/poultry_model-2/
+data/test_image.jpg
+data/result.jpg
+data/detected_result.jpg
+data/test_result.jpg
