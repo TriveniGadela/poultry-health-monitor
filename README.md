@@ -104,3 +104,9 @@ B.Tech Computer Science, VVIT
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
+
+# 🐔 Poultry Health Monitor
+
+🔗 **[Live Demo](https://poultry-health-monitor-niftbjmckhzwej8nxzts3a.streamlit.app/)** | 📂 **[GitHub Repo](https://github.com/TriveniGadela/poultry-health-monitor)**
+
+AI-powered visual disease detection system for poultry farms using YOLOv8 and computer vision.
